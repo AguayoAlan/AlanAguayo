@@ -27,6 +27,23 @@ Licenciado como Biólogo
 ## Contacto y redes sociales
 
 Correo electronico: alan.aguayo.gonzalez.1a@gmail.com  
-![](./img/Facebook_icon.png){width='20px'} Facebook: [alanalejandro.aguayogonzalez](https://www.facebook.com/alanalejandro.aguayogonzalez)
+![](./img/Facebook_icon.png){width='20px'} Facebook: [alanalejandro.aguayogonzalez](https://www.facebook.com/alanalejandro.aguayogonzalez)  
+![](./img/instagram_icon.png){width='20px'} Instagram: [Aguayoglez](https://www.instagram.com/aguayoglez/?hl=es)
 
+## Curriculum vitae
+
+Para ver el CV hacer click [aquí](./docs/CV Alan Aguayo González.pdf)
+
+## Reporte
+
+En este documento encontraras los resultados del analisis realizado en la practica. Para ver el contenido hacer click [aquí](./docs/Tabla_fagos.pdf)
+
+## Gráficas
+
+```{r}
+hist(iris$Sepal.Length)
+```
+```{r}
+plot(iris$Sepal.Length,iris$Petal.Length, col = iris$Species)
+```
 
