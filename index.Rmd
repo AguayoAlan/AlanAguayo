@@ -11,6 +11,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+![](./img/1612144755465.jpg){width='100px'}
+
 ## Datos personales
 
 Fecha de nacimiento: 31/07/1996  
@@ -25,6 +27,6 @@ Licenciado como Biólogo
 ## Contacto y redes sociales
 
 Correo electronico: alan.aguayo.gonzalez.1a@gmail.com  
-Facebook: Aguayo Alan
+![](./img/Facebook_icon.png){width='20px'} Facebook: [alanalejandro.aguayogonzalez](https://www.facebook.com/alanalejandro.aguayogonzalez)
 
 
