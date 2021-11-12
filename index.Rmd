@@ -1,0 +1,30 @@
+---
+title: "Alan Alejandro Aguayo González"
+--author: "Aguayo Alan"
+--date: "12/11/2021"
+output:
+  html_document:
+    theme: darkly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Datos personales
+
+Fecha de nacimiento: 31/07/1996  
+Edad: 25  
+Nacionalidad: Mexicano
+
+## Formación Académica
+
+Licenciado como Biólogo  
+2014-2019
+
+## Contacto y redes sociales
+
+Correo electronico: alan.aguayo.gonzalez.1a@gmail.com  
+Facebook: Aguayo Alan
+
+
